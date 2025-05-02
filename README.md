@@ -26,6 +26,12 @@ An end-to-end full-stack web application for simulating and visualizing IoT sens
 - 🌐 Clean and responsive UI
 
 ---
+![image](https://github.com/user-attachments/assets/6c5a99b4-052c-4f9d-b863-46a93f1358e2)
+![image](https://github.com/user-attachments/assets/12cf7ac2-b865-420a-b12d-3a624d1fa2bb)
+![image](https://github.com/user-attachments/assets/ab977f1a-4a7f-4206-844c-8038d22b03ec)
+
+
+
 
 ## 🚀 Getting Started
 
