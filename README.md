@@ -39,12 +39,12 @@ An end-to-end full-stack web application for simulating and visualizing IoT sens
 
 git clone https://github.com/your-username//Iot_simulator.git
 
-cd /Iot_simulator
+- cd /Iot_simulator
 
 
 ### 2. Run with Docker Compose
 
-docker-compose up --build
+- docker-compose up --build
 
 This will start both the FastAPI backend and the React frontend in separate containers.
 
